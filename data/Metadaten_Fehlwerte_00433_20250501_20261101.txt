@@ -1,0 +1,17 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+433;Berlin-Tempelhof;PM;23.09.2025;25.09.2025;3;;eor;                                                                                                                                                   
+433;Berlin-Tempelhof;PM;17.01.2026;18.01.2026;2;;eor;                                                                                                                                                   
+433;Berlin-Tempelhof;FM;17.01.2026;18.01.2026;2;;eor;                                                                                                                                                   
+433;Berlin-Tempelhof;FM;22.01.2026;22.01.2026;1;;eor;                                                                                                                                                   
+433;Berlin-Tempelhof;FX;17.01.2026;18.01.2026;2;;eor;                                                                                                                                                   
+433;Berlin-Tempelhof;UPM;17.01.2026;18.01.2026;2;;eor;                                                                                                                                                  
+433;Berlin-Tempelhof;UPM;22.01.2026;22.01.2026;1;;eor;                                                                                                                                                  
+433;Berlin-Tempelhof;VPM;17.01.2026;18.01.2026;2;;eor;                                                                                                                                                  
+433;Berlin-Tempelhof;VPM;22.01.2026;22.01.2026;1;;eor;                                                                                                                                                  
+433;Berlin-Tempelhof;NM;12.05.2025;13.05.2025;2;;eor;                                                                                                                                                   
+433;Berlin-Tempelhof;NM;23.09.2025;25.09.2025;3;;eor;                                                                                                                                                   
+433;Berlin-Tempelhof;NM;17.01.2026;18.01.2026;2;;eor;                                                                                                                                                   
+433;Berlin-Tempelhof;NM;22.01.2026;22.01.2026;1;;eor;                                                                                                                                                   
+433;Berlin-Tempelhof;RSK;16.09.2026;16.09.2026;1;;eor;                                                                                                                                                  
+433;Berlin-Tempelhof;SHK_TAG;24.09.2025;25.09.2025;2;;eor;                                                                                                                                              
+generiert: 02.11.2026 --  Deutscher Wetterdienst  --                                                                                                                                                    
